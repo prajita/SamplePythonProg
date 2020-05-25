@@ -1,0 +1,23 @@
+{
+    "version": "3.8.3",
+    "configurations": [
+        {
+            "name": "Python",
+            "type": "python",
+            "request": "launch",
+            "program": "${config:python.pythonPath}",
+            "stopOnEntry": false,
+            "args": [],
+            "cwd": "",
+            "preLaunchTask": null,
+            "runtimeExecutable": null,
+            "runtimeArgs": [
+                "--nolazy"
+            ],
+            "env": {},
+            "console": "internalConsole",
+            "sourceMaps": false,
+            "outFiles": []
+        }
+    ]
+}
